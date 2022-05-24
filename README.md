@@ -1,5 +1,5 @@
-# Open-Printer
-An Open Source 3D Printer focused con reliability, flexibility and upradability
+# Open Printer
+An Open Source 3D Printer focused con performance, flexibility and upradability. All the parts were modelled in FreeCAD.
 
 Shield: [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
